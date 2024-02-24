@@ -1,2 +1,4 @@
-# Distro e-commerce
-membuat web toko distro online dengan html css js
+# Workout  e-commerce
+HTML
+CSS
+JavaScript
